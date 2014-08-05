@@ -1,9 +1,11 @@
-
-# The Best Free (or Cheap) Mac Apps to Get You Started
-
-### Welcome Switchers
+---
+layout: post
+title: The Best Free (or Cheap) Mac Apps to Get You Started
+---
 
 Your wallet is still wincing from the purchase of shiny new Apple hardware, I truly can empathise, and so have prepared this article to relieve the pain. The following selection of free or cheap apps will get you up and running, nary a Blue Screen Of Death in sight. Never fear; despite what the prices may suggest, all software is of a quality befitting the glowing fruit you bear.
+
+-----
 
 This article will receive updates as I discover new and superior apps, if existing apps become abandoned by developers, and when Apple updates OS X and inevitably “Sherlocks http://www.digitaltrends.com/computing/ios-8-and-os-x-yosemite-screwing-these-companies ” apps.
 
