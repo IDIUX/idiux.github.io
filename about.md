@@ -7,7 +7,7 @@ title: About
   Inspirational message!
 </p>
 
-Short biography about me, maybe an obscure photo.
+Short biography about me to come, maybe even an obscure photo.
 
 Get in touch:
 
