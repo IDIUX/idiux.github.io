@@ -1,0 +1,28 @@
+.heroImageWrap {
+    position: absolute;
+    left: 0;
+    top: 4em;
+    width: 100%;
+    height: 20em;
+    background: url(https://farm4.staticflickr.com/3912/14649724119_f7dde4e835_h.jpg) center center repeat;
+    background-size: cover;
+    z-index: -9;
+}
+.heroImageWrap .overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+}
+body > .container > .post {
+    z-index: 9999;
+}
+.post.single h1 {
+    margin-top: 3em;
+    color: rgba(255,255,255,0.8);
+}
+.post.single .post-date {
+    margin-bottom: 4rem;
+}
