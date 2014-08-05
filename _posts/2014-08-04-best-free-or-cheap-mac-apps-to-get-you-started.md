@@ -11,16 +11,16 @@ Are you trying to perform a task not covered by any of the apps features herein?
 
 ## Productivity
 
-* Alfred (free) — http://www.alfredapp.com/ no longer relevant for Yosemite+
+* [Alfred](http://www.alfredapp.com/ "Alfred") (free) — no longer relevant for Yosemite+
 * Alfred PowerPack (£17) - adds advanced features to Alfred
-* Airmail ($2) http://airmailapp.com/
-* Dropbox (free+) https://www.dropbox.com/ — no longer relevant for Yosemite+
-* Evernote? (free+) https://evernote.com/
-* Skitch? https://evernote.com/skitch/
+* [Airmail](http://airmailapp.com/ "Airmail") ($2)
+* [Dropbox](https://www.dropbox.com/ "Dropbox") (free+) — no longer relevant for Yosemite+
+* [Evernote](https://evernote.com/ "Evernote")? (free+)
+* [Skitch](https://evernote.com/skitch/ "Skitch")?
 
 ## Utilities
 
-* AppCleaner (free) — uninstall apps http://www.freemacsoft.net/appcleaner/
+* [AppCleaner](http://www.freemacsoft.net/appcleaner/ "AppCleaner") (free) — uninstall apps 
 * Carbon Copy Cloner (free) — or paid if you want scheduling http://www.bombich.com/
 * Fluid (free or US$5) http://fluidapp.com/
 * JDownloader — ugly but super powerful http://jdownloader.org/ — recommend the 2.0 beta http://jdownloader.org/download/offline
