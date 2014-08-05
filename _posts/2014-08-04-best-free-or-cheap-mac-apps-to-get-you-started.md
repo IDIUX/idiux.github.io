@@ -7,7 +7,7 @@ Your wallet is still wincing from the purchase of shiny new Apple hardware, I tr
 
 <!--more-->
 
-This article will receive updates as I discover new and superior apps, if existing apps become abandoned by developers, and when Apple updates OS X and inevitably “Sherlocks http://www.digitaltrends.com/computing/ios-8-and-os-x-yosemite-screwing-these-companies ” apps.
+This article will receive updates as I discover new and superior apps, if existing apps become abandoned by developers, and when Apple updates OS X and inevitably "[Sherlocks](http://www.digitaltrends.com/computing/ios-8-and-os-x-yosemite-screwing-these-companies "Definition of being Sherlocked by Apple")" apps.
 
 Are you trying to perform a task not covered by any of the apps features herein? Have a Windows app upon which you relied and can’t find a Mac alternative? Try my follow-up articles for advanced users and specific needs, or discover the abilities of pre-installed OS X apps. If all else fails, you can email me or hit me up on Twitter.
 
