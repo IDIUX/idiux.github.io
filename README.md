@@ -1,3 +1,68 @@
+<<<<<<< HEAD
+# Jekyll Incorporated
+Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+
+## Installation & Usage
+    bundle install
+    jekyll serve --watch
+
+_Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
+    
+## Configuration
+Edit: _config.yml (general options), main.css (theme colors &amp; fonts)
+
+```
+jekyll-incorporated/
+├── _config.yml
+├── _assets/
+    ├── stylesheets/
+        ├── main.scss
+```
+
+_Note: when editing _config.yml, you need to restart jekyll to see the changes.__
+
+    
+## Publish to Github Pages
+1. Add your domain to _CNAME_
+2. Edit your repo address at _Rakefile_
+    
+Run rake task. **NOTE: It will deploy the generated site to _gh-pages_ branch overwriting it**    
+``` 
+rake site:publish
+```
+
+## Usage examples
+
+* Adroll Engineering http://tech.adroll.com/
+* Brace.io blog http://blog.brace.io/
+* Spark.io blog http://blog.spark.io/
+* Department of Better Technology http://blog.dobt.co/
+
+## Authors
+
+Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
+
+**Karri Saarinen**
+
++ [http://twitter.com/karrisaarinen](http://twitter.com/karrisaarinen)
++ [http://github.com/ksaa](http://github.com/ksaa)
+
+**Jori Lallo**
+
++ [http://twitter.com/jorilallo](http://twitter.com/jorilallo)
++ [http://github.com/jorde](http://github.com/jorilallo)
+
+## Todo:
+
++ Documentation
++ Less config files
++ Better deploy scripts
+
+## Copyright and license
+
+Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
+
+=======
 # HPSTR Jekyll Theme
 
 They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
@@ -115,3 +180,4 @@ Having a problem getting something to work or want to know why I setup something
 ## License
 
 This theme is free and open source software, distributed under the [GNU General Public License](https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/LICENSE) version 2 or later. So feel free to to modify this theme to suit your needs. 
+>>>>>>> master
