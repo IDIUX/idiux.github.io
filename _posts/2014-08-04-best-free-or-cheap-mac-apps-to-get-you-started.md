@@ -39,12 +39,12 @@ Are you trying to perform a task not covered by any of the apps features herein?
 * [MPlayerX](http://mplayerx.org/ "MPlayerX") (free) - Alternative to VLC
 * [Handbrake](http://handbrake.fr/ "Handbrake") (free, requires VLC) - Rip DVDs and encode movie files
 * [Perian](http://perian.org/ "Perian") - Adds multi-format video codec support to QuickTime - no longer compatible in Mavericks+ 
+* [Flip4Mac](http://www.telestream.net/flip4mac/wmv.htm "Flip4Mac") (<del>free</del> $5.95) - Compliments Perian to enable Quicktime to play non-DRM Windows Media files. Used to be free (subsidised by Microsoft), though is now commercial software. Like Perian, Flip4Mac is incompatible with OS X Mavericks and onwards.
 * [iPhoto](https://www.apple.com/au/mac/iphoto/ "iPhoto") (Free with new Mac, or $18.99) - Photo organisation for casual photographers
 * [Aperture](https://www.apple.com/au/aperture/ "Aperture") ($79.99) - Photo organisation and editing for enthusiast photographers.  This might seem like a lot of cash, but it’s actually cheap when you consider the functionality and the cost of alternatives (Adobe Lightroom, Capture One)
 * [Plex](https://plex.tv/ "Plex") (free) - HTPC (Home Theatre PC) enables you to access your centralised media collection from any device, both at home and away
 * [XLD](http://tmkk.undo.jp/xld/index_e.html "XLD Lossless Decoder") (free) - Convert any audio format to any other audio format (I use mostly for converting FLAC to ALAC)
 * [Vox](http://coppertino.com/ "Vox") (free) - Minimalist audio player, alternative to iTunes. Plays FLAC, OGG, etc.
-* Flip2Mac or WM Components (free, compliments Perian) can’t be used in Mavericks+
 
 ## Misc. and not-so-cheap
 
