@@ -7,6 +7,8 @@ Our entire product design team recently switched from Sketch to Figma as our pri
 
 I’ll talk about why we switched and a whole bunch of things that, as a seasoned Sketch user, I had to [re]learn along the way.
 
+<!--more-->
+
 ## Seven deadly benefits
 * **Simultaneous collaboration.** Once you use this in a team environment, you wonder how you ever did without it.
 * **Shared libraries.** Figma allows more fine-grained control of library files and facilitates shared ownership. Cloud hosting allows everyone to get immediate updates. Goodbye Github and Google Drive.
