@@ -26,6 +26,9 @@
     background-size: cover;
     z-index: -9;
 }
+.figma {
+    background: url(https://farm5.staticflickr.com/4903/45024019515_f58cf424e3_k.jpg) 0 0 no-repeat;
+}
 .heroImageWrap .overlay {
     position: absolute;
     left: 0;
