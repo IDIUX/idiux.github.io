@@ -46,19 +46,3 @@ Now that your master components are living right alongside the unwashed masses, 
 Organising a system of components in a [shared Library file](https://help.figma.com/collaborating/team-library/team-library) is a great way to get your team working efficiently to produce cohesive designs. As you go crazy creating components, you’ll notice that you can’t nest _master_ components inside each other, but you can nest instances. A popular workflow is to create “building blocks” master components, organised together on a separate page or file, from which you copy instances to construct more complex master components.
 
 A side effect is that these building blocks and various nested components get added to your library and show up in search results in the Components panel. Never fear, in the search results, you can right-click and choose `Remove from library` . Conversely, sometimes you create master components out of a bunch of building blocks, expecting it to be available from other files that use the library, but it’s not there — in the library file, open the Components panel and find/search the component in the list, then right-click and choose `Add to library` .
-
-
-### Grids?
-If you’re like me, all your designs use an 8px base grid. Head to `Menu > Preferences > Nudge Amount...` and change `Big nudge` to 8px — this is the value of the Shift+arrow keys increment used for moving and resizing objects.
-
-For responsive layouts, you’ll probably be using a column-based grid.
-
-### Frames in detail — working with grids, holding Command to resize away from the children, resize to fit
-
-Update your nudge amount to 8px
-
-Comand+\ hides the UI (Command+. In Sketch)
-
-New Library components
-* states on layers
-* adding things selectively to the shared library (not building blocks)
