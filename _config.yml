@@ -10,7 +10,7 @@ permalink:         pretty
 title:             IDIUX
 tagline:           I Design Interfaces &amp; User Experiences
 url:               http://idiux.com
-plugins:           [jekyll-paginate]
+# plugins:           [jekyll-paginate]
 paginate:          1
 baseurl:           /
 author:
