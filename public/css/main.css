@@ -22,7 +22,8 @@
     top: 4rem;
     width: 100%;
     height: 20rem;
-    background: url(https://www.petmd.com/sites/default/files/petmd-kitten-development.jpg) 0 0 no-repeat;
+    background-position: 0 0;
+    background-repeat: no-repeat;
     background-size: cover;
     z-index: -9;
 }
