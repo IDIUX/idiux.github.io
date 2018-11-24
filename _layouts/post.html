@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="heroImageWrap figma parallax-bg-img">
+<div class="heroImageWrap parallax-bg-img" {% if page.related_image %} style="background-image: url({{page.related_image}})" {% endif %}>
     <div class="overlay"></div>
 </div>
 

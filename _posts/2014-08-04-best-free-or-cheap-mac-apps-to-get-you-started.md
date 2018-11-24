@@ -1,6 +1,9 @@
 ---
 layout: post
 title: The Best Free (or Cheap) Mac Apps to Get You Started
+date: 2014-08-04 16:00:00 +1100
+categories: technology
+related_image: /public/images/os-x-launchpad-apps.jpg
 ---
 
 Your wallet is still wincing from the purchase of shiny new Apple hardware, I truly can empathise, and so have prepared this article to relieve the pain. The following selection of free or cheap apps will get you up and running, nary a Blue Screen Of Death in sight. Never fear; despite what the prices may suggest, all software is of a quality befitting the glowing fruit you bear.

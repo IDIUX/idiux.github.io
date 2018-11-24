@@ -1,6 +1,9 @@
 ---
 title: Why and How I Switched from Sketch to Figma
 layout: post
+date: 2018-11-18 16:00:00 +1100
+categories: design
+related_image: /public/images/figma-canvas.png
 ---
 
 Our entire product design team recently switched from Sketch to Figma as our primary design tool. Sketch is an amazing, mature UI design tool that I’ve loved using for years. It remains superior at drawing vectors and working offline, so it will keep its spot in my Dock for the moment. However, in a team context, Figma has proven to be superior, replacing not just Sketch, but also several other tools.

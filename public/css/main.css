@@ -22,12 +22,12 @@
     top: 4rem;
     width: 100%;
     height: 20rem;
-    background: url(https://farm4.staticflickr.com/3912/14649724119_a63cd6ba3c_h.jpg) 0 0 no-repeat;
+    background: url(https://www.petmd.com/sites/default/files/petmd-kitten-development.jpg) 0 0 no-repeat;
     background-size: cover;
     z-index: -9;
 }
 .figma {
-    background: url(https://farm5.staticflickr.com/4903/45024019515_f58cf424e3_k.jpg) 0 0 no-repeat;
+    background-image: url(../images/figma-canvas.png);
 }
 .heroImageWrap .overlay {
     position: absolute;
