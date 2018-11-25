@@ -1,8 +1,8 @@
 ---
 title: Why and How I Switched from Sketch to Figma
-layout: post
 date: 2018-11-18 16:00:00 +1100
-categories: design
+layout: post
+tags: design
 related_image: /public/images/figma-canvas.png
 ---
 
