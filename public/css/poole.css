@@ -48,9 +48,9 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.61;
 }
 @media (min-width: 38em) {
   html {
@@ -59,16 +59,17 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: #fff;
+  color: #cfd0da;
+  background-color: #191819;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #a18dd8;
   text-decoration: none;
+  border-bottom: 3px solid #312650;
 }
 a strong {
   color: inherit;
@@ -76,26 +77,30 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
+  color: #b8a9e2;
+  background: #312650;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
+  font-family: 'Domine', serif;
   font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
+  /* line-height: 1.25; */
+  /* color: #313131; */
   text-rendering: optimizeLegibility;
 }
 h1 {
   font-size: 2rem;
+  color: #fff;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 3rem;
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
@@ -110,7 +115,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #fff;
 }
 
 
@@ -155,8 +160,8 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
-  background-color: #f9f9f9;
+  color: #61bf9b;
+  background-color: #000;
   border-radius: 3px;
 }
 pre {
@@ -213,8 +218,8 @@ pre code {
 /* Quotes */
 blockquote {
   padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
+  margin: 2rem 0;
+  color: #fff;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
@@ -337,11 +342,29 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  /* color: #303030; */
 }
 .page-title,
 .post-title {
   margin-top: 0;
+}
+.single .post-title {
+  position: relative;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  padding: 2rem;
+  min-height: 20rem;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0.1rem;
+  box-shadow: 0 4px 16px #000;
+  vertical-align: bottom;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.post-title span:first-child {
+  z-index: 9999;
 }
 
 /* Meta data line below post title */
@@ -362,7 +385,10 @@ tbody tr:nth-child(odd) th {
   padding-left: 0;
   list-style: none;
 }
-.related-posts h3 {
+.related-posts > li {
+  margin-bottom: 1rem;
+}
+  .related-posts h3 {
   margin-top: 0;
 }
 .related-posts li small {
