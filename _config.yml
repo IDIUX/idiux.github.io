@@ -4,7 +4,7 @@ highlighter:       pygments
 excerpt_separator: <!--more-->
 
 # Permalinks
-permalink:         /:year/:month/:title
+permalink:         /:categories/:year/:month/:title
 
 # Setup
 title:             IDIUX

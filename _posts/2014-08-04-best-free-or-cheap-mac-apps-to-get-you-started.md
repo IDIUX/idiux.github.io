@@ -1,8 +1,8 @@
 ---
-title: The Best Free (or Cheap) Mac Apps to Get You Started
+title: "The Best Free (or Cheap) Mac Apps to Get You Started"
 date: 2014-08-04 16:00:00 +1100
 layout: post
-comments: true
+category: blog
 tags: technology
 related_image: /public/images/os-x-launchpad-apps.jpg
 ---

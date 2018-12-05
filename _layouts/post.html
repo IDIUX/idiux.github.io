@@ -15,6 +15,11 @@ layout: default
   {{ content }}
 </div>
 
+<div class="signature">
+  <img src="{{ site.baseurl }}/public/images/iain-dowling-designer.jpg" alt="Iain Dowling, UX/UI Designer" />
+  <span><strong>Iain Dowling</strong> is a designer with a passion for people. He's been making apps since Nokias were cool and websites since Netscape was king. Get in touch on <a href="https://twitter.com/idiux" title="Iain Dowling on Twitter">Twitter</a>.</span>
+</div>
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -23,9 +28,10 @@ layout: default
         <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">
             {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
           </a>
-        </h3>
+          <br />
+          <small>{{ post.date | date_to_string }}</small>
+      </h3>
       </li>
     {% endfor %}
   </ul>

@@ -1,7 +1,8 @@
 ---
-title: Protips for switching from Sketch to Figma
+title: "Product Design Protips: Switching from Sketch to Figma"
 date: 2018-11-18 16:00:00 +1100
 layout: post
+category: blog
 tags: design
 related_image: /public/images/sketch-to-figma.jpg
 ---

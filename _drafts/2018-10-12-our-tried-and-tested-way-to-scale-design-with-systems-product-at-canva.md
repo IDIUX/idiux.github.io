@@ -1,9 +1,10 @@
 ---
-title: Our tried and tested way to scale design with systems – Product at Canva
+title: "Our tried and tested way to scale design with systems"
 date: 2018-10-12 16:17:57 +1100
 layout: post
+category: blog
 tags: design
-related_image: /public/images/canva-blog-flow.gif
+related_image: /public/images/canva-banner.jpg
 ---
 
 Below is an excerpt from an [article I wrote on the Canva blog](https://product.canva.com/scaling-design-with-systems/). I go deep on how we address product design challenges related to scale.
