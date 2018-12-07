@@ -4,7 +4,7 @@ title: About
 related_image: /public/images/banner-about-amsterdam.jpg
 ---
 
-Iain Dowling is a product designer with a passion for people. User experience design, user interface design and interaction design expert.
+Product designer with a passion for people. User experience design, user interface design and interaction design expert.
 
 Systems-thinker with an eye for detail. Pragmatic perfectionist. Engineer whisperer.
 
