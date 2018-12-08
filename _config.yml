@@ -11,7 +11,7 @@ tagline:           Digital Product Design
 url:               http://idiux.com
 # plugins:           [jekyll-paginate]
 paginate:          1
-baseurl:           
+baseurl:           /
 author:
   name:            Iain Dowling
   url:             https://twitter.com/idiux
