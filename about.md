@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: "About"
 related_image: /public/images/banner-about-amsterdam.jpg
 ---
 
