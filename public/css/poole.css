@@ -76,8 +76,7 @@ a strong {
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
-a:focus, 
-.navbar-nav li.active a {
+a:focus {
   text-decoration: none;
   color: #aaa9e2;
   background: #312650;
@@ -409,7 +408,6 @@ tbody tr:nth-child(odd) th {
   border-bottom: none !important;
 }
 .related-posts li a:hover {
-  color: #268bd2;
   text-decoration: none;
 }
 .related-posts li a:hover small {

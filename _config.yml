@@ -8,7 +8,7 @@ permalink:         /:categories/:year/:month/:title
 
 # Setup
 title:             IDIUX
-tagline:           I Design Interfaces &amp; User Experiences
+tagline:           Digital Product Design
 url:               http://idiux.com
 # plugins:           [jekyll-paginate]
 paginate:          1
