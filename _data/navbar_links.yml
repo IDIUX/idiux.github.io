@@ -2,7 +2,7 @@
   url: "/"
 
 - name: "About"
-  url: "/about/"
+  url: "/about.html"
 
 - name: "Contact"
-  url: "/contact/"
+  url: "/contact.html"
