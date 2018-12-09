@@ -2,7 +2,7 @@
 excerpt_separator: <!--more-->
 
 # Permalinks
-permalink:         /:categories/:year/:month/:title
+permalink:         /:year/:month/:title
 
 # Setup
 title:             IDIUX
