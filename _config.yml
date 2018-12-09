@@ -1,5 +1,4 @@
 # Dependencies
-highlighter:       rouge
 excerpt_separator: <!--more-->
 
 # Permalinks
@@ -9,15 +8,6 @@ permalink:         /:categories/:year/:month/:title
 title:             IDIUX
 tagline:           Digital Product Design
 url:               http://idiux.com
+timezone:          Australia/Sydney
 # plugins:           [jekyll-paginate]
-paginate:          1
-baseurl:           /
-author:
-  name:            Iain Dowling
-  url:             https://twitter.com/idiux
-#  email:          @gmail.com
-
-# Custom vars
-version:           1.0.0
-github:
-  repo:            https://idiux.github.io
+# paginate:          1
