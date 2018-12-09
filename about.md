@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About
 related_image: /public/images/banner-about-amsterdam.jpg
 ---
