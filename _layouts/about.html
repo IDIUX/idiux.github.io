@@ -1,7 +1,12 @@
 ---
-layout: page
+layout: default
 ---
 
 <div class="post single">
-  test
+  <h1 class="post-title" {% if page.related_image %} style="background-image: url({{page.related_image}})" {% endif %}>
+    <span>{{ page.title }}</span>
+    <span class="overlay"></span>
+  </h1>
+  <span class="post-date"></span>
+  {{ content }}
 </div>
