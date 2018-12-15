@@ -52,7 +52,7 @@ a:hover,
 a:focus {
   text-decoration: none;
   color: #aaa9e2;
-  background: #312650;
+  background-color: #312650;
 }
 
 /* Headings */
@@ -63,10 +63,11 @@ h1, h2, h3, h4, h5, h6 {
   /* line-height: 1.25; */
   /* color: #313131; */
   text-rendering: optimizeLegibility;
+  letter-spacing: -0.02rem;
+  color: #fff;
 }
 h1 {
   font-size: 2rem;
-  color: #fff;
 }
 h2 {
   margin-top: 3rem;
@@ -310,7 +311,10 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 6rem;
+}
+.post.single {
+  margin-bottom: 3rem;
 }
 
 /* Blog post or page title */
@@ -323,7 +327,7 @@ tbody tr:nth-child(odd) th {
 .post-title {
   margin-top: 0;
 }
-.single .post-title {
+.post-title {
   position: relative;
   margin-left: -2rem;
   margin-right: -2rem;
@@ -338,14 +342,32 @@ tbody tr:nth-child(odd) th {
   display: flex;
   flex-direction: column-reverse;
 }
-.post-title span:first-child {
+a.post-title {
+  display: flex;
+  color: inherit;
+  border: none;
+}
+a.post-title:hover {
+  /* box-shadow: 0 0 32px rgba(92, 80, 255, 0.76); */
+}
+
+a.post-title:hover span:first-child {
+  /* color: rgb(215, 214, 248); */
+  /* text-shadow: 0 4px 32px rgba(0,0,0,0.3); */
+  /* text-decoration: underline; */
+}
+.post-title span:first-child, 
+a.post-title span:first-child {
+  position: relative;
   z-index: 9999;
 }
 
 /* Meta data line below post title */
 .post-date {
   display: block;
-  margin: 1rem 0;
+  margin: 1rem 0 0.5rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
   color: rgba(255,255,255,0.4);
 }
 

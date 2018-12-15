@@ -6,7 +6,7 @@ permalink:         /:categories/:year/:month/:title
 
 # Setup
 title:             IDIUX
-tagline:           Digital Product Design
+tagline:           Introspections on Digital Product Design & Technology
 url:               http://idiux.com
 timezone:          Australia/Sydney
 # plugins:           [jekyll-paginate]
