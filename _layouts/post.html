@@ -6,14 +6,14 @@ layout: default
     <div class="overlay"></div>
 </div> -->
 
-<div class="post single">
+<article class="post single">
   <h1 class="post-title" {% if page.related_image %} style="background-image: url({{page.related_image}})" {% endif %}>
     <span>{{ page.title }}</span>
     <span class="overlay"></span>
   </h1>
   <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
   {{ content }}
-</div>
+</article>
 
 <div class="signature">
   <img src="{{ site.baseurl }}/public/images/iain-dowling-designer.jpg" alt="Iain Dowling, UX/UI Designer" />

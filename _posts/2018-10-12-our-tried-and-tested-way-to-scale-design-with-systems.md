@@ -24,10 +24,10 @@ There are many problems with this kind of process, such as:
 * **Legacy documentation:** creating new design artefacts for every individual endpoint results in duplicate screens, making design updates a nightmare, increases the likelihood for mistakes and maintenance becomes a real problem.
 * **Code cruft:** when designs are communicated to engineers one endpoint at a time, bespoke code is often created rather than leveraging shared components, thereby contributing to maintenance and performance issues.
 
-Taking inspiration from the age-old manufacturing process, we looked into whether we could identify commonalities within our endpoints and design a universal "mold", allowing us to rapidly ramp up production.
+Taking inspiration from the age-old manufacturing process, we looked into whether we could identify commonalities within our endpoints and design a universal “mold”, allowing us to rapidly ramp up production.
 
 ### Building a design task flow
 ![Task flow - publish to social media and cloud storage]({{site.url}}/public/images/canva-blog-flow.gif)
-> This diagram describes how users publish their design to any social network or cloud storage endpoint. New endpoints are usually able to be integrated with little or no changes required. Here you can see before and after a Facebook API update. This shows how well designed systems can be easily updated to accommodate changes in third-party APIs.
+This diagram describes how users publish their design to any social network or cloud storage endpoint. New endpoints are usually able to be integrated with little or no changes required. Here you can see before and after a Facebook API update. This shows how well designed systems can be easily updated to accommodate changes in third-party APIs.
 
 *Continue reading:* [Our tried and tested way to scale design with systems – Product at Canva](https://product.canva.com/scaling-design-with-systems/)
